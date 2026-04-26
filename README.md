@@ -53,7 +53,7 @@ MONGO_URI=your_mongodb_uri
 
 ## 📄 Project Report
 
-Refer to **Major_Project_Report.pdf** for detailed explanation.
+Refer to **MajorProjectReportFinal.pdf** for detailed explanation.
 
 ## ⚠️ Important
 
