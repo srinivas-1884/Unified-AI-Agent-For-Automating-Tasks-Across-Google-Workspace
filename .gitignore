@@ -1,38 +1,8 @@
-﻿# Environment files
+venv/
 .env
-.env.local
-.env.production
-
-# Google credentials
-token.json
-credentials.json
-service_account.json
-client_secret_*.json
-
-# Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Virtual environment
-venv/
-env/
-.venv/
-
-# Local data
-data/
-*.db
-*.sqlite3
-
-# IDE files
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Logs
-*.log
-
-# Runtime files
+token.json
 token.pickle
+credentials.json
+service_account.json
